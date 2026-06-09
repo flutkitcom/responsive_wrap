@@ -280,3 +280,7 @@ When reporting issues, please include:
 ## License
 
 MIT License
+
+[![pub package](https://img.shields.io/pub/v/responsive_wrap.svg)](https://pub.dev/packages/responsive_wrap)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black)](https://github.com/flutkitcom/responsive_wrap)
