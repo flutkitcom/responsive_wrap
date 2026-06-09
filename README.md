@@ -28,7 +28,7 @@ ResponsiveWrap simplifies this into a single widget.
 
 ```dart
 ResponsiveWrap(
-  breakpoints: const {
+  breakpoints: {
     576: 1, // Use a single-column layout when width is below 576px
     768: 2, // Use a two-column layout when width is below 768px
   },
@@ -92,7 +92,7 @@ import 'package:responsive_wrap/responsive_wrap.dart';
 
 ```dart
 ResponsiveWrap(
-  breakpoints: const {
+  breakpoints: {
     576: 1,
     768: 2,
   },
@@ -138,7 +138,7 @@ Mobile:
 Breakpoints define when the layout changes.
 
 ```dart
-breakpoints: const {
+breakpoints: {
   576: 1,
   768: 2,
 }
@@ -185,7 +185,7 @@ Project Dashboard:
 
 ```dart
 ResponsiveWrap(
-  breakpoints: const {
+  breakpoints: {
     576: 1,
     768: 2,
   },
@@ -206,7 +206,7 @@ Analytics Dashboard:
 
 ```dart
 ResponsiveWrap(
-  breakpoints: const {
+  breakpoints: {
     576: 1,
     992: 2,
   },
